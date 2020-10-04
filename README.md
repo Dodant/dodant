@@ -1,15 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDodant&count_bg=%238BBBF1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hello, Out There 👋
+## Hello, Out There 👋
 - 🔭 I’m currently working on iOS App Development
 - 🌱 I’m currently learning SwiftUI and REST API
 - 📫 How to reach me: ohho0506@gmail.com
 
 ## My Development Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodant&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dodant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dodant)](https://github.com/anuraghazra/github-readme-stats)
 
-## Projects
+## My Projects
 - Machine Learning
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dodant&repo=Snap-Point)](https://github.com/anuraghazra/github-readme-stats)
