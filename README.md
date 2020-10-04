@@ -7,6 +7,7 @@
 ## Hello, Out There 👋
 - 🔭 I’m currently working on iOS App Development
 - 🌱 I’m currently learning SwiftUI and REST API
+- 🤔 TIL (Today I Learned): [100일 앱개발로그](https://www.notion.so/eclatmane/100-til-2021-01-01-a-k-a-TIL-8c3ea696f5744e338bf58ecef0a942dc)
 - 📫 How to reach me: ohho0506@gmail.com
 
 ## My Development Stats
