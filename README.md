@@ -7,10 +7,11 @@
 ## Hello, Out There 👋
 - 🔭 I’m currently working on iOS App Development
 - 🌱 I’m currently learning SwiftUI and REST API
+- 👯 I'm in CNU SW Development Club - [ECONOVATION](https://github.com/JNU-econovation)
 - 🤔 TIL (Today I Learned): [100일 앱개발로그](https://www.notion.so/eclatmane/100-til-2021-01-01-a-k-a-TIL-8c3ea696f5744e338bf58ecef0a942dc)
 - 📫 How to reach me: ohho0506@gmail.com
 
-## My Development Stats
+## Development Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodant&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dodant)](https://github.com/anuraghazra/github-readme-stats)
 
