@@ -1,4 +1,9 @@
+<div align=center>
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDodant&count_bg=%238BBBF1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
 ## Hello, Out There 👋
 - 🔭 I’m currently working on iOS App Development
 - 🌱 I’m currently learning SwiftUI and REST API
@@ -8,16 +13,12 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodant&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dodant)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Projects
+## Projects
 - Machine Learning
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dodant&repo=Snap-Point)](https://github.com/Dodant/Snap-Point)
-- Machine Learning
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dodant&repo=ANPR-with-Yolov4)](https://github.com/Dodant/ANPR-with-Yolov4)
+  - Snap-Point
+  - ANPR-with-Yolov4
 - iOS App using SwiftUI
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dodant&repo=Project-Mane)](https://github.com/Dodant/Project-Mane)
+  - Project-Mane
 
 <!--
 **Dodant/dodant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
