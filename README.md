@@ -14,11 +14,17 @@
 
 ## Projects
 - Machine Learning
-  - Snap-Point
-  - ANPR-with-Yolov4
-- iOS App using SwiftUI
-  - Project-Mane
-
+  - [Snap-Point](https://github.com/Dodant/Snap-Point)
+  - [ANPR-with-Yolov4](https://github.com/Dodant/ANPR-with-Yolov4)
+- App Development
+  - [Project-Mane](https://github.com/Dodant/Project-Mane)
+- ETC
+  - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
+   
+   
+   
+   
+> Dream as if you'll live forever. Live as if you'll die today.
 <!--
 **Dodant/dodant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
