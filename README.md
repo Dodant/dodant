@@ -5,7 +5,7 @@
 </div>
 
 ## Hello, Out There 👋
-- 🔭 I’m currently working on Medical Image Registration at Nuclear Medicine, CNUH
+- 🔭 I’m currently working on Medical Imaging at Nuclear Medicine, CNUH
 - 🌱 I’m currently learning Deep Learning and Computer Vision 
 - 👯 I'm in CNU SW Development Club - [ECONOVATION](https://github.com/JNU-econovation)
 - 📫 How to reach me: ohho0506@gmail.com
