@@ -16,6 +16,9 @@
 - Machine Learning
   - [Snap-Point](https://github.com/Dodant/Snap-Point)
   - [ANPR-with-Yolov4](https://github.com/Dodant/ANPR-with-Yolov4)
+  - Forked
+    - [Knowledge-Distillation](https://github.com/Dodant/Knowledge-Distillation)
+    - [Simple-Image-Classification](https://github.com/Dodant/Simple-Image-Classification)
 - App Development
   - [Project-Mane](https://github.com/Dodant/Project-Mane)
 - ETC
