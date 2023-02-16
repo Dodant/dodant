@@ -24,6 +24,7 @@
 - ETC
   - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
   - [curly-tribble](https://github.com/Dodant/curly-tribble)
+  - [arma-rs-image-viewer](https://github.com/Dodant/arma-rs-image-viewer)
    
    
    
