@@ -25,8 +25,10 @@
   - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
   - [curly-tribble](https://github.com/Dodant/curly-tribble)
   - [arma-rs-image-viewer](https://github.com/Dodant/arma-rs-image-viewer)
+  - [image-metadata-annotator](https://github.com/Dodant/image-metadata-annotator)
    
    
+
    
 > Dream as if you'll live forever. Live as if you'll die today.
 <!--
