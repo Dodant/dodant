@@ -10,8 +10,6 @@
 - 👯 I'm in CNU SW Development Club - [ECONOVATION](https://github.com/JNU-econovation)
 - 📫 How to reach me: maestr.oh@gm.gist.ac.kr or ohho0506@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dodant&show_icons=true&hide=issues&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Projects
 - Machine Learning
   - [Snap-Point](https://github.com/Dodant/Snap-Point)
