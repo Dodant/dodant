@@ -23,6 +23,7 @@
 - Machine Learning
   - [Snap-Point](https://github.com/Dodant/Snap-Point)
   - [ANPR-with-Yolov4](https://github.com/Dodant/ANPR-with-Yolov4)
+  - [DisturbKnowledge](https://github.com/Dodant/DisturbKnowledge)
   - Forked
     - [Knowledge-Distillation](https://github.com/Dodant/Knowledge-Distillation)
     - [Simple-Image-Classification](https://github.com/Dodant/Simple-Image-Classification)
