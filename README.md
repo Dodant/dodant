@@ -4,11 +4,20 @@
 
 </div>
 
-## Hello, Out There 👋
-- 🔭 I’m currently working on Machine Learning & Vision Laboratory at GIST
-- 🌱 I’m currently learning Deep Learning and Computer Vision 
-- 👯 I'm in CNU SW Development Club - [ECONOVATION](https://github.com/JNU-econovation)
-- 📫 How to reach me: maestr.oh@gm.gist.ac.kr or ohho0506@gmail.com
+<h1 align="center">Hello, Out There 👋</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%">
+</p>
+
+<p align="center">
+  <strong>🔭 I’m currently working on Machine Learning & Vision Laboratory at GIST</strong><br>
+  <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
+  <strong>👯 I'm in CNU SW Development Club - <a href="https://github.com/JNU-econovation">ECONOVATION</a></strong><br>
+  <strong>📫 How to reach me:</strong><br>
+  📧 <a href="mailto:maestr.oh@gm.gist.ac.kr">maestr.oh@gm.gist.ac.kr</a><br>
+  📧 <a href="mailto:ohho0506@gmail.com">ohho0506@gmail.com</a>
+</p>
 
 ## Projects
 - Machine Learning
