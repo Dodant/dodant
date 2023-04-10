@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>🔭 I’m currently working at <a href="https://sites.google.com/view/mlv">Machine Learning & Vision Laboratory (MLV Lab)</a> at GIST</strong><br>
+  <strong>🔭 I’m working at <a href="https://sites.google.com/view/mlv">Machine Learning & Vision Laboratory (MLV Lab)</a> at GIST</strong><br>
   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
   <strong>👯 I'm in CNU SW Development Club - <a href="https://github.com/JNU-econovation">Econovation</a></strong><br>
   <strong>📫 How to reach me:</strong><br>
