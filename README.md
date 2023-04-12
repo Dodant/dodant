@@ -21,14 +21,14 @@
 
 ## Projects
 - Machine Learning
-  - [Snap-Point](https://github.com/Dodant/Snap-Point)
-  - [ANPR-with-Yolov4](https://github.com/Dodant/ANPR-with-Yolov4)
-  - [DisturbKnowledge](https://github.com/Dodant/DisturbKnowledge)
+  - [snap-point](https://github.com/Dodant/snap-point)
+  - [anpr-with-yolo-v4](https://github.com/Dodant/anpr-with-yolo-v4)
+  - [disturb-knowledge](https://github.com/Dodant/disturb-knowledge)
   - Forked
     - [Knowledge-Distillation](https://github.com/Dodant/Knowledge-Distillation)
     - [Simple-Image-Classification](https://github.com/Dodant/Simple-Image-Classification)
 - App Development
-  - [Project-Mane](https://github.com/Dodant/Project-Mane)
+  - [project-mane](https://github.com/Dodant/project-mane)
 - ETC
   - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
   - [curly-tribble](https://github.com/Dodant/curly-tribble)
