@@ -1,15 +1,15 @@
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDodant&count_bg=%238BBBF1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
 
-</div>
-
+<h1 align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Maestr.oh's%20Hub&fontSize=90" /></h1>
 <h1 align="center">Hello, Out There 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="30%">
 </p>
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDodant&count_bg=%238BBBF1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
 
+</div>
 <p align="center">
   <strong>🔭 I’m working at <a href="https://sites.google.com/view/mlv">Machine Learning & Vision Laboratory (MLV Lab)</a> at GIST</strong><br>
   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
