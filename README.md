@@ -29,17 +29,17 @@
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/>
+  <img src="https://img.shields.io/badge/Swift-white?style=flat&logo=Swift&logoColor=F05138" />
+  <img src="https://img.shields.io/badge/HTML5-white?style=flat&logo=HTML5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-white?style=flat&logo=CSS3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-white?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/MySQL-white?style=flat&logo=MySQL&logoColor=4479A1" />
   <br>
-	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch%20Lightening-792EE5?style=flat&logo=pytorchlightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/TF-792EE5?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TF-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
   <br>
