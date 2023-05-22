@@ -5,15 +5,7 @@
 
 <h1 align="center">Hello, Out There 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="40%">
-</p>
 
-<div align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDodant&count_bg=%238BBBF1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 <p align="center">
   <strong>🔭 I’m working at <a href="https://sites.google.com/view/mlv">Machine Learning & Vision Laboratory (MLV Lab)</a> at GIST</strong><br>
@@ -23,6 +15,11 @@
   📧 <a href="mailto:maestr.oh@gm.gist.ac.kr">maestr.oh@gm.gist.ac.kr</a><br>
   📧 <a href="mailto:ohho0506@gmail.com">ohho0506@gmail.com</a>
 </p>
+<div align=center>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDodant&count_bg=%238BBBF1&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=today+%2F+total&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
