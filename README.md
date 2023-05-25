@@ -22,8 +22,8 @@
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h3>📚 Tech Stack</h3>
+	<p>✨ Platforms & Languages</p>
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=3776AB" />
@@ -45,7 +45,7 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<p>🛠 Tools</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
