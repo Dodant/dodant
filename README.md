@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Maestr.oh's%20Hub&fontSize=50" />
 </div>
 
-<h1 align="center">Hello, Out There 👋</h1>
+<h1 align="center">👋 Hello, Out There</h1>
 
 
 
