@@ -73,7 +73,7 @@
 - ETC
   - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
   - [curly-tribble](https://github.com/Dodant/curly-tribble)
-  - [arma-rs-utils](https://github.com/Dodant/arma-rs-utils)
+  - [AMOD-viewer](https://github.com/Dodant/AMOD-viewer)
   - [image-metadata-annotator](https://github.com/Dodant/image-metadata-annotator)
    
    
