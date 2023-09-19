@@ -73,6 +73,7 @@
 - ETC
   - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
   - [curly-tribble](https://github.com/Dodant/curly-tribble)
+  - [potential-octo](https://github.com/Dodant/potential-octo)
   - [AMOD-viewer](https://github.com/Dodant/AMOD-viewer)
   - [image-metadata-annotator](https://github.com/Dodant/image-metadata-annotator)
    
