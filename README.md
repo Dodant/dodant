@@ -12,8 +12,8 @@
   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
   <strong>👯 I'm in CNU SW Development Club - <a href="https://github.com/JNU-econovation">Econovation</a></strong><br>
   <strong>📫 How to reach me:</strong><br>
-  📧 <a href="mailto:maestr.oh@gm.gist.ac.kr">maestr.oh@gm.gist.ac.kr</a><br>
-  📧 <a href="mailto:ohho0506@gmail.com">ohho0506@gmail.com</a>
+  ✉️ <a href="mailto:maestr.oh@gm.gist.ac.kr">maestr.oh@gm.gist.ac.kr</a><br>
+  ✉️ <a href="mailto:ohho0506@gmail.com">ohho0506@gmail.com</a>
 </p>
 <div align=center>
   
