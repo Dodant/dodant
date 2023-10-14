@@ -73,6 +73,7 @@
   - [snap-point](https://github.com/Dodant/snap-point)
   - [anpr-with-yolo-v4](https://github.com/Dodant/anpr-with-yolo-v4)
   - [disturb-knowledge](https://github.com/Dodant/disturb-knowledge)
+  - [gloss_translate](https://github.com/Dodant/gloss_translate)
   - Forked
     - [Knowledge-Distillation](https://github.com/Dodant/Knowledge-Distillation)
     - [Simple-Image-Classification](https://github.com/Dodant/Simple-Image-Classification)
