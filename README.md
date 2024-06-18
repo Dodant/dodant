@@ -79,13 +79,14 @@
     - [Simple-Image-Classification](https://github.com/Dodant/Simple-Image-Classification)
 - App Development
   - (iOS) [project-mane](https://github.com/Dodant/project-mane)
+  - (Android) [image_api_demo_app](https://github.com/Dodant/image_api_demo_app)
 - ETC
   - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
   - [curly-tribble](https://github.com/Dodant/curly-tribble)
   - [potential-octo](https://github.com/Dodant/potential-octo)
   - [AMOD-viewer](https://github.com/Dodant/AMOD-viewer)
   - [image-metadata-annotator](https://github.com/Dodant/image-metadata-annotator)
-   
+  - [proxy_server](https://github.com/Dodant/proxy_server)
    
 
    
