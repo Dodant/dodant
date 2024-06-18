@@ -8,11 +8,11 @@
 
 
 <p align="center">
-  <strong>🔭 I’m working at <a href="https://sites.google.com/view/mlv">Machine Learning & Vision Laboratory (MLV Lab)</a> at GIST</strong><br>
-  <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br>
-  <strong>👯 I'm in CNU SW Development Club - <a href="https://github.com/JNU-econovation">Econovation</a></strong><br>
+  <strong>🔭 I’m working at AI Lab</a> at HDC Labs</strong><br>
+<!--   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br> -->
+<!--   <strong>👯 I'm in CNU SW Development Club - <a href="https://github.com/JNU-econovation">Econovation</a></strong><br> -->
   <strong>📫 How to reach me:</strong><br>
-  ✉️ <a href="mailto:maestr.oh@gm.gist.ac.kr">maestr.oh@gm.gist.ac.kr</a><br>
+  ✉️ <a href="mailto:maestr.oh@hdc-labs.com">maestr.oh@hdc-labs.com</a><br>
   ✉️ <a href="mailto:ohho0506@gmail.com">ohho0506@gmail.com</a>
 </p>
 <div align=center>
