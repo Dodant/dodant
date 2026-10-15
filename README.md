@@ -1,39 +1,45 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Maestr.oh's%20Hub&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=180&section=header&text=Maestr%20Oh&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=AI%20%E2%80%A2%20Web%20%E2%80%A2%20Apps&descAlignY=60&descSize=19" alt="Maestr Oh — AI, Web, Apps" width="100%" />
+
+  <h1>Hi, I'm Maestr Oh 👋</h1>
+  <p>I turn interesting ideas into things people can use.</p>
+  <p>AI Lab at HDC Labs · Seoul, South Korea</p>
+
+  <p>
+    <a href="mailto:maestr.oh@hdc-labs.com">Work email</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:ohho0506@gmail.com">Personal email</a>
+  </p>
 </div>
 
-<h1 align="center">👋 Hello, Out There</h1>
+---
 
+### What I'm building
 
+| Project | What it does |
+| :--- | :--- |
+| [**Namba**](https://github.com/Dodant/Namba) | An open wiki of numbers and the stories behind them. Anyone can read, write, and edit. |
+| [**YugiTokenBar**](https://github.com/Dodant/YugiTokenBar) | A macOS menu bar app that turns coding agent token usage into a Yu-Gi-Oh! card collection. |
+| **COVERAGE** · [Web](https://github.com/Dodant/coverage-frontend) · [API](https://github.com/Dodant/coverage-backend) · [Backoffice](https://github.com/Dodant/coverage-backoffice) | A connected product with a user-facing website, Java backend, and React-based admin interface. |
 
-<p align="center">
-  <strong>🔭 I’m working at AI Lab</a> at HDC Labs</strong><br>
-<!--   <strong>🌱 I’m currently learning Deep Learning and Computer Vision</strong><br> -->
-<!--   <strong>👯 I'm in CNU SW Development Club - <a href="https://github.com/JNU-econovation">Econovation</a></strong><br> -->
-  <strong>📫 How to reach me:</strong><br>
-  ✉️ <a href="mailto:maestr.oh@hdc-labs.com">maestr.oh@hdc-labs.com</a> (Work)<br> 
-  ✉️ <a href="mailto:ohho0506@gmail.com">ohho0506@gmail.com</a> (Personal)
-</p>
+### Building at MIIRAIII
 
+I'm the sole developer on this team, building across product, frontend, backend, and apps. These projects live in private organization repositories:
 
-## Projects
-- Machine Learning
-  - [snap-point](https://github.com/Dodant/snap-point)
-  - [anpr-with-yolo-v4](https://github.com/Dodant/anpr-with-yolo-v4)
-  - [disturb-knowledge](https://github.com/Dodant/disturb-knowledge)
-  - [gloss_translate](https://github.com/Dodant/gloss_translate)
-  - Forked
-    - [Knowledge-Distillation](https://github.com/Dodant/Knowledge-Distillation)
-    - [Simple-Image-Classification](https://github.com/Dodant/Simple-Image-Classification)
-- App Development
-  - (iOS) [project-mane](https://github.com/Dodant/project-mane)
-  - (Android) [image_api_demo_app](https://github.com/Dodant/image_api_demo_app)
-- ETC
-  - [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python)
-  - [curly-tribble](https://github.com/Dodant/curly-tribble)
-  - [potential-octo](https://github.com/Dodant/potential-octo)
-  - [AMOD-viewer](https://github.com/Dodant/AMOD-viewer)
-  - [image-metadata-annotator](https://github.com/Dodant/image-metadata-annotator)
-  - [proxy_server](https://github.com/Dodant/proxy_server)
-   
+| Project | What I'm building |
+| :--- | :--- |
+| **Chiral** | A web community that brings people with the same name into shared rooms to post, vote, and create together. Built with Next.js and Spring Boot. |
+| **Hoody** | A location-based social app for discovering and sharing posts on a map, with an iOS client, API, and operations console. |
+
+### Where I started
+
+I began with machine learning and computer vision, then explored mobile apps and web products. Here are a few of the projects along the way:
+
+- **Computer vision:** [ANPR with YOLOv4](https://github.com/Dodant/anpr-with-yolo-v4) · [snap-point](https://github.com/Dodant/snap-point)
+- **Machine learning:** [disturb-knowledge](https://github.com/Dodant/disturb-knowledge) · [gloss_translate](https://github.com/Dodant/gloss_translate)
+- **Mobile apps:** [project-mane (iOS)](https://github.com/Dodant/project-mane) · [image_api_demo_app (Android)](https://github.com/Dodant/image_api_demo_app)
+- **Other experiments:** [neuroimaging-with-python](https://github.com/Dodant/neuroimaging-with-python) · [image-metadata-annotator](https://github.com/Dodant/image-metadata-annotator)
+
+<div align="center">
+  <sub>Curious about a project? Open an issue or say hello by email.</sub>
+</div>
