@@ -3,7 +3,7 @@
 
   <h1>Hi, I'm Maestr Oh 👋</h1>
   <p>I turn interesting ideas into things people can use.</p>
-  <p>AI Lab at HDC Labs · Seoul, South Korea</p>
+  <p>Seoul, South Korea</p>
 
   <p>
     <a href="mailto:maestr.oh@hdc-labs.com">Work email</a>
