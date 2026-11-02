@@ -20,11 +20,11 @@
 
 | Project | What it does |
 | :--- | :--- |
-| [**Nmaba**](https://namba.chiral.kr/) · [GitHub](https://github.com/Dodant/Namba) | An open wiki of numbers and the stories behind them. Anyone can read, write, and edit. |
+| [**Namba**](https://namba.chiral.kr/)<br>[Repo](https://github.com/Dodant/Namba) | An open wiki of numbers and the stories behind them. Anyone can read, write, and edit. |
 | [**YugiTokenBar**](https://github.com/Dodant/YugiTokenBar) | A macOS menu bar app that turns coding agent token usage into a Yu-Gi-Oh! card collection. |
-| **COVERAGE** · [Web](https://github.com/Dodant/coverage-frontend) · [API](https://github.com/Dodant/coverage-backend) · [Backoffice](https://github.com/Dodant/coverage-backoffice) | A connected product with a user-facing website, Java backend, and React-based admin interface. |
-| [**Chiral**](https://chiral.kr/) · Private repository | A web community that brings people with the same name into shared rooms to post, vote, and create together. Built with Next.js and Spring Boot. |
-| **Hoody** · Private repository | A location-based social app for discovering and sharing posts on a map, with an iOS client, API, and operations console. |
+| **COVERAGE**<br>[Web](https://github.com/Dodant/coverage-frontend) · [API](https://github.com/Dodant/coverage-backend) · [Backoffice](https://github.com/Dodant/coverage-backoffice) | A connected product with a user-facing website, Java backend, and React-based admin interface. |
+| [**Chiral**](https://chiral.kr/)<br>Private repository | A web community that brings people with the same name into shared rooms to post, vote, and create together. Built with Next.js and Spring Boot. |
+| **Hoody**<br>Private repository | A location-based social app for discovering and sharing posts on a map, with an iOS client, API, and operations console. |
 
 ### Where I started
 
